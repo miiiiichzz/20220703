@@ -127,7 +127,7 @@ nav a:hover {
 }
 
 .heroimg {
-	background-image: url(Welcome TO MY SITE.jpg);
+	background-image: url(Welcome%20TO%20MY%20SITE.jpg);
 	background-size: contain;
 	background-position: center 0%;
 	height: 100vh;
